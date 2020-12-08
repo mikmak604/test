@@ -1,1 +1,25 @@
+body{
+  background-color: rgb (50, 180, 100)
+}
 
+
+
+table{
+  border: 2px dotted rgb(210, 65, 225)
+    border-collapse: seperate;
+}
+
+body{
+  color: orange;
+  font-size: 24px;
+}
+
+
+th{
+  background-color: rgb(200,200,200);
+  color: red;
+}
+
+td
+{
+  border: dotted 1px rgb(240,236,90)
